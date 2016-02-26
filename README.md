@@ -6,4 +6,9 @@ Code runs with ParamSklearn and auto-sklearn as in http://aad.informatik.uni-fre
 
 # Final 2
 
-Code runs with ParamSklearn and auto-sklearn as in aad.informatik.uni-freiburg.de/downloads/automl_competition_2015_002.zip
+Code runs with ParamSklearn and auto-sklearn as in http://aad.informatik.uni-freiburg.de/downloads/automl_competition_2015_002.zip
+
+# Final 3
+
+Code runs with auto-sklearn as in http://aad.informatik.uni-freiburg.de/downloads/automl_competition_2015_003.zip
+To obtain predictions for alexis, one has to install Lasagne and Theano.
